@@ -58,6 +58,20 @@ const Greeting = ({ name }) => {
 We've removed a ternary statement from the component and made it more
 declarative. Yay!
 
+## Development
+
+```bash
+$ git clone https://github.com/jbranchaud/react-logical
+$ cd react-logical
+$ yarn # or npm install
+```
+
+## Testing
+
+```bash
+$ yarn test
+```
+
 ## License
 
 &copy; 2018 Josh Branchaud
