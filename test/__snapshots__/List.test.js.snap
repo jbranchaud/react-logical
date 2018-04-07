@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders with a blank string 1`] = `"Fallthrough"`;
+
+exports[`renders with a string 1`] = `"Logical"`;
+
+exports[`renders with no props 1`] = `""`;
+
+exports[`renders with no string 1`] = `"Fallthrough"`;
